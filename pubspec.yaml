@@ -39,6 +39,7 @@ dependencies:
   lottie:
   dartz:
   google_maps_flutter:
+  flutter_riverpod:
   fab_circular_menu_plus:
   flutter_polyline_points:
   flutter_rating_stars:
@@ -69,6 +70,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/animations/mapanimation.json
+    - assets/mapicons/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
